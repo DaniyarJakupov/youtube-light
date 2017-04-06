@@ -1,11 +1,7 @@
 # youtube-light
-<table>
-<tr>
-<td>
-   Minimalistic youtube. Just kidding. This was my first react application. Nothing fancy, simple app. If you just want to watch video from youtube without loading
-   ![YouTube](https://www.youtube.com) itself, this is it ;)
-</tr>
-</table>
+
+Minimalistic youtube. Just kidding. This was my first react application. Nothing fancy, simple app. If you just want to watch video from youtube without loading [YouTube](https://www.youtube.com) itself, this is it ;)
+
 
 ## Getting Started
 
