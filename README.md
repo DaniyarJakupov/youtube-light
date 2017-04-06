@@ -3,14 +3,14 @@
 <tr>
 <td>
    Minimalistic youtube. Just kidding. This was my first react application. Nothing fancy, simple app. If you just want to watch video from youtube without loading
-   ![YouTube](https://www.youtube.com/) itself, this is it ;)
+   ![YouTube](https://www.youtube.com) itself, this is it ;)
 </tr>
 </table>
 
 ## Getting Started
 
 Clone this repo and run `npm install` to install all the dependencies.
-* git clone https://github.com/DaniyarJakupov/youtube-light.git
+* git clone `https://github.com/DaniyarJakupov/youtube-light.git`
 * cd youtube-light
 * npm install
 
